@@ -20,10 +20,15 @@ PROVIDERS="
 176.103.130.132#adguard 
 156.154.70.3#neustar 
 8.26.56.26#comodo
+119.29.29.29#Tencent
+223.5.5.5#Ali
+180.76.76.76#Baidu
+114.114.114.114#114
+117.50.10.10#OneDns
 "
 
 # Domains to test. Duplicated domains are ok
-DOMAINS2TEST="www.google.com amazon.com facebook.com www.youtube.com www.reddit.com  wikipedia.org twitter.com gmail.com www.google.com whatsapp.com"
+DOMAINS2TEST="180811.xyz www.google.com amazon.com whatsapp.com baidu.com mp.weixin.qq.com www.buctbase.com jwglxt-proxy3.buct.edu.cn"
 
 
 totaldomains=0
